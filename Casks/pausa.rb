@@ -22,3 +22,5 @@ cask "pausa" do
     "~/Library/Logs/Pausa",
   ]
 end
+
+# temporary mirror verification marker
